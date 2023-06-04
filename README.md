@@ -4,7 +4,7 @@ create vpc.
 
 create internet gateway.
 
-create public and private subnets.
+create two subnets "public and private".
 
 create two route tables.
 
